@@ -5,3 +5,7 @@ Before building or running the project run
 
 `npm install`
 `elm-package install`
+
+# Run application 
+
+`nf start`
